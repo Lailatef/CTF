@@ -13,7 +13,7 @@ Each write-up documents my approach, tools used, findings, and reflections — s
 | [D2](./D2-Not-so-Simple-Mail-Protocol.md) | Not-so-Simple Mail Protocol | Log Analysis, SIEM     | Filtering logs, extracting metadata |
 | [D3](./D3-Ransom-Wrangler.md) | Ransom Wrangler            | Incident Response      | Negotiation tactics, threat comms |
 | [D5](./D5-Exfiltration-Process-Triage.md) | Exfiltration Process Triage | Host Forensics         | Process analysis, network connections |
-| [D6](./D6-DNS-Exfil-Decode/writeup.md) | DNS Exfil Decode           | Network Forensics      | Base32 decoding, CyberChef |
+| [D6](./D6-DNS-Exfil-Decode) | DNS Exfil Decode           | Network Forensics      | Base32 decoding, CyberChef |
 | [D7](./D7-PCAP-DNS-Triage.md) | PCAP DNS Triage            | PCAP Analysis          | Wireshark filters, DNS exfil detection |
 | [D8](./D8-Shadow-Commit.md) | Shadow Commit              | Repo Forensics, Malware | Git history analysis, decoding obfuscation |
 
