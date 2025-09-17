@@ -1,4 +1,4 @@
-# D7 — PCAP Triage / DNS Analysis (100)
+# D7 — PCAP Triage / DNS Analysis 
 
 **Platform:** Network Forensics (Wireshark)  
 **Category:** PCAP Analysis / DNS Forensics  
