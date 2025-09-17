@@ -1,6 +1,6 @@
 D1-MysteryMail/writeup.md
 
-# D1 — Mystery Mail (100)
+# D1 — Mystery Mail 
 
 **Platform:** CTF / Forensics  
 **Category:** Email Forensics  
