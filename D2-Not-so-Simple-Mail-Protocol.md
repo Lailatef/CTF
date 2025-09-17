@@ -1,4 +1,4 @@
-# D2 — Not-so-Simple Mail Protocol (100)
+# D2 — Not-so-Simple Mail Protocol 
 
 **Platform:** CTF / Log Analysis  
 **Category:** Email / SIEM / Log Analysis  
