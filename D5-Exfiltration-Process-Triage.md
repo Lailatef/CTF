@@ -1,4 +1,4 @@
-# D5 — Exfiltration / Process Triage (100)
+# D5 — Exfiltration / Process Triage 
 
 **Platform:** Forensics / Host Triage  
 **Category:** Host Forensics / Process + Network Analysis  
