@@ -1,4 +1,4 @@
-# D3 — Ransom Wrangler (100)
+# D3 — Ransom Wrangler 
 
 **Platform:** Interactive CTF  
 **Category:** Social Engineering / Incident Response  
