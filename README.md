@@ -9,13 +9,13 @@ Each write-up documents my approach, tools used, findings, and reflections — s
 
 | ID  | Challenge Title                  | Category                  | Skills Demonstrated |
 |-----|----------------------------------|---------------------------|----------------------|
-| [D1](./D1-MysteryMail/writeup.md) | Mystery Mail               | Email Forensics       | Header analysis, tracing sender IP |
-| [D2](./D2-Not-so-Simple-Mail-Protocol/writeup.md) | Not-so-Simple Mail Protocol | Log Analysis, SIEM     | Filtering logs, extracting metadata |
-| [D3](./D3-Ransom-Wrangler/writeup.md) | Ransom Wrangler            | Incident Response      | Negotiation tactics, threat comms |
-| [D5](./D5-Exfiltration-Process-Triage/writeup.md) | Exfiltration Process Triage | Host Forensics         | Process analysis, network connections |
+| [D1](./D1-MysteryMail.md) | Mystery Mail               | Email Forensics       | Header analysis, tracing sender IP |
+| [D2](./D2-Not-so-Simple-Mail-Protocol.md) | Not-so-Simple Mail Protocol | Log Analysis, SIEM     | Filtering logs, extracting metadata |
+| [D3](./D3-Ransom-Wrangler.md) | Ransom Wrangler            | Incident Response      | Negotiation tactics, threat comms |
+| [D5](./D5-Exfiltration-Process-Triage.md) | Exfiltration Process Triage | Host Forensics         | Process analysis, network connections |
 | [D6](./D6-DNS-Exfil-Decode/writeup.md) | DNS Exfil Decode           | Network Forensics      | Base32 decoding, CyberChef |
-| [D7](./D7-PCAP-DNS-Triage/writeup.md) | PCAP DNS Triage            | PCAP Analysis          | Wireshark filters, DNS exfil detection |
-| [D8](./D8-Shadow-Commit/writeup.md) | Shadow Commit              | Repo Forensics, Malware | Git history analysis, decoding obfuscation |
+| [D7](./D7-PCAP-DNS-Triage.md) | PCAP DNS Triage            | PCAP Analysis          | Wireshark filters, DNS exfil detection |
+| [D8](./D8-Shadow-Commit.md) | Shadow Commit              | Repo Forensics, Malware | Git history analysis, decoding obfuscation |
 
 > **Note:** Challenge D4  not provided in this series.
 
